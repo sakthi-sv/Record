@@ -1,0 +1,55 @@
+{
+  "project_info": {
+    "project_number": "55848654893",
+    "firebase_url": "https://record-b30a6.firebaseio.com",
+    "project_id": "record-b30a6",
+    "storage_bucket": "record-b30a6.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:55848654893:android:d303666e259008e1",
+        "android_client_info": {
+          "package_name": "in.rajalakshmi.record"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "55848654893-vve1kjlf2k0m260hb2u73eiv2j145hjd.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "in.rajalakshmi.record",
+            "certificate_hash": "166097603b95c6eeef7396563f0b49f1a28d7991"
+          }
+        },
+        {
+          "client_id": "55848654893-bjn14rbgms22fbhlut2mdshnf005pqe1.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBZvOan1yoEnWunPhRoMGiqbkF2CC9Gcu8"
+        }
+      ],
+      "services": {
+        "analytics_service": {
+          "status": 1
+        },
+        "appinvite_service": {
+          "status": 2,
+          "other_platform_oauth_client": [
+            {
+              "client_id": "55848654893-bjn14rbgms22fbhlut2mdshnf005pqe1.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        },
+        "ads_service": {
+          "status": 2
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
